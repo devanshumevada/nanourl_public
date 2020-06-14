@@ -1,6 +1,6 @@
 ## NanoURL
 
-[NanoURL](http://www.nanourl.xyz "NanoURL") is a service that creates shorter aliases for lengthy URLs.
+[NanoURL](http://nanourl1.herokuapp.com "NanoURL") is a service that creates shorter aliases for lengthy URLs.
 
 
 ------------
